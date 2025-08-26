@@ -33,11 +33,6 @@ export const About = () => {
                       caminhar ao seu lado.
                     </p>
                     
-                    <p>
-                      Sua visão é de que o seguro deve ser algo simples, acessível e humano, 
-                      indo além de contratos e cláusulas para se tornar uma verdadeira 
-                      parceria de proteção.
-                    </p>
                     
                     <p>
                       Guiado por valores como transparência, ética e dedicação, Marcelo 
